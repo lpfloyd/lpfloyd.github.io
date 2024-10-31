@@ -108,7 +108,7 @@ a:active {
   float: left;
   color: #f2f2f2;
   text-align: center;
-  padding: 20px;
+  padding: 15px;
   text-decoration: none;
   font-weight: bold;
   font-size: 25px;
@@ -152,7 +152,7 @@ a:active {
       display: none;
   }
   .hero {
-    height: 40%
+    height: 25%
   }
   .pc-only {
     display: none;
