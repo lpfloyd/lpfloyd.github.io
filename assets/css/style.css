@@ -188,6 +188,7 @@ a:active {
 section.hero {
   background-size: cover;
   background-position: center;
+  background-attachment: fixed;
   color: #fff;
   text-align: center;
 }
