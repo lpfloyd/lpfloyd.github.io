@@ -245,6 +245,21 @@ section.hero {
   width: 30%;
 }
 
+.columnleft {
+  float: left;
+  width: 29%;
+}
+
+.columnmiddle {
+  float: center;
+  width: 29%;
+}
+
+.cloumnright {
+  float: right;
+  width: 29%;
+}
+
 @media screen and (max-width: 800px) {
   .leftcolumn, .rightcolumn {   
     width: 100%;
